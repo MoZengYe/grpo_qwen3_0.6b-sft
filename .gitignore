@@ -1,0 +1,11 @@
+# model weights and training checkpoints (too large for GitHub)
+models/
+checkpoints/
+*.safetensors
+*.distcp
+*.bin
+
+# macOS / Python artefacts
+.DS_Store
+__pycache__/
+*.pyc
